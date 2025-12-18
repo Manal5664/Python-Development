@@ -1,18 +1,18 @@
 # Python Control Flow – Practice Notebooks
 
-Yeh folder Python ke **basic control flow concepts** par based Jupyter notebooks par mushtamil hai.  
-Har notebook ek specific concept ko **examples aur practice** ke sath explain karti hai.  
-Yeh content beginners ke liye specially design kiya gaya hai.
+This folder contains Jupyter notebooks focused on **basic Python control flow concepts**.  
+Each notebook explains a specific concept using **clear examples and hands-on practice**.  
+The content is specially designed for **beginners in Python programming**.
 
 ---
 
-##  Files Description
+## Files Description
 
 ### 1. `if-else.ipynb`
-- Python me **conditional statements** ka use
-- `if`, `elif`, `else` ka syntax
-- Decision making based programs
-- Real-life based examples
+- Usage of **conditional statements** in Python
+- Syntax of `if`, `elif`, and `else`
+- Decision-making programs
+- Real-world based examples
 
 **Concepts Covered:**
 - Conditions  
@@ -22,9 +22,9 @@ Yeh content beginners ke liye specially design kiya gaya hai.
 ---
 
 ### 2. `for loop.ipynb`
-- **For loop** ka introduction
-- Iteration over lists, ranges, aur strings
-- Loop control basics
+- Introduction to **for loops**
+- Iteration over lists, ranges, and strings
+- Basic loop control concepts
 
 **Concepts Covered:**
 - Iteration  
@@ -34,19 +34,19 @@ Yeh content beginners ke liye specially design kiya gaya hai.
 ---
 
 ### 3. `While Loop.ipynb`
-- **While loop** ka working mechanism
+- Working mechanism of **while loops**
 - Condition-based looping
-- Infinite loop se bachne ke tareeqe
+- Techniques to avoid infinite loops
 
 **Concepts Covered:**
 - Loop conditions  
-- Increment / decrement logic  
+- Increment and decrement logic  
 
 ---
 
 ### 4. `break_continue.ipynb`
-- Loop control statements ka use
-- `break` aur `continue` ka difference
+- Usage of loop control statements
+- Difference between `break` and `continue`
 - Practical examples with loops
 
 **Concepts Covered:**
@@ -56,8 +56,8 @@ Yeh content beginners ke liye specially design kiya gaya hai.
 ---
 
 ### 5. `pattern.ipynb`
-- **Star aur number patterns** using loops
-- Nested loops ka practical use
+- **Star and number patterns** using loops
+- Practical implementation of nested loops
 
 **Concepts Covered:**
 - Nested loops  
@@ -67,23 +67,24 @@ Yeh content beginners ke liye specially design kiya gaya hai.
 
 ### 6. `Calculator.ipynb`
 - Simple **calculator program** using Python
-- User input handling
-- Conditional logic ka real-world use
+- Handling user input
+- Real-world use of conditional logic
 
 **Concepts Covered:**
-- Input / Output  
+- Input and output  
 - Conditions  
 - Basic arithmetic operations  
 
 ---
 
-##  Learning Outcomes
-- Python ke control flow concepts clear honge  
-- Loop aur condition based problem solving improve hogi  
-- Programming logic develop hogi  
+## Learning Outcomes
+- Clear understanding of Python control flow concepts  
+- Improved problem-solving using loops and conditions  
+- Strong foundation in programming logic  
 
 ---
 
-##  Author
+## Author
 **Manal Atif**  
 GitHub: https://github.com/Manal5664  
+
